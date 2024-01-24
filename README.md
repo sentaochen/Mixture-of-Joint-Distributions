@@ -17,9 +17,9 @@ For details of the theory and algorithm in this multi-source domain adaptation w
   journal={Pattern Recognition},   
   title={Multi-Source Domain Adaptation with Mixture of Joint Distributions},   
   year={2024},   
-  volume = {},  
-  pages={},   
-  issn = {},  
+  volume = {149},  
+  pages={110295},   
+  issn = {0031-3203},  
   doi={https://doi.org/10.1016/j.patcog.2024.110295}   
   }
 
