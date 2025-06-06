@@ -2,7 +2,8 @@
 
 <img src="MJD.png" width="80%">
 
-This repository provides the Pytorch code for the work "Multi-Source Domain Adaptation with Mixture of Joint Distributions" published in Pattern Recognition, 2024. The main idea of the work is illustrated in Fig.1. The video for introducing this work is available at the Bilibili website with the link https://www.bilibili.com/video/BV1ytTtzpEcg/?spm_id_from=333.1387.homepage.video_card.click
+This repository provides the Pytorch code for the work "Multi-Source Domain Adaptation with Mixture of Joint Distributions" published in Pattern Recognition, 2024. The main idea of the work is illustrated in Fig.1. The video for introducing this work is available at the Bilibili website with the link 
+https://www.bilibili.com/video/BV1ytTtzpEcg/?spm_id_from=333.1387.homepage.video_card.click
 
 For quick demonstration, in the code, the network model is a one-hidden-layer neural network, and the dataset for evaluating the MJD algorithm is the PIE dataset (see dataset description in the paper "Domain Generalization by Joint-Product Distribution Alignment" published in Pattern Recognition, 2022.)
 
